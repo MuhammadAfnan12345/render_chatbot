@@ -1,0 +1,15 @@
+# Core web/app frameworks
+streamlit
+flask
+speechrecognition
+pyaudio
+pyttsx3
+google-cloud-aiplatform
+requests
+sentence-transformers
+faiss-cpu
+torch
+scikit-learn
+pandas
+nltk
+
